@@ -3,6 +3,13 @@ body {
 }
 h1 {
     text-align: center;
+    color:blueviolet;
+    font-size: 40px;
+}
+h2 {
+    text-align: center;
+    color:blueviolet;
+    font-size: 30px;
 }
 p{
     color:rgb(96, 0, 250);
