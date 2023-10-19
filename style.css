@@ -1,6 +1,10 @@
 body {
-    background: #EEEEEE
+    background: #EEEEEE;
 }
 h1 {
     text-align: center;
+}
+p{
+    color:azure;
+    font-size: 20px;
 }
