@@ -3,15 +3,15 @@ body {
 }
 h1 {
     text-align: center;
-    color:blueviolet;
+    color:rgb(132, 0, 255);
     font-size: 40px;
 }
 h2 {
     text-align: center;
-    color:blueviolet;
+    color:rgb(255, 0, 0);
     font-size: 30px;
 }
 p{
-    color:rgb(96, 0, 250);
+    color:rgb(0, 79, 250);
     font-size: 20px;
 }
