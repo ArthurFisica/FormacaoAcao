@@ -1,17 +1,17 @@
 body {
     background: #EEEEEE;
 }
-h1 {
+#titulo01 {
     text-align: center;
     color:rgb(132, 0, 255);
     font-size: 40px;
 }
-h2 {
+#titulo02 {
     text-align: center;
     color:rgb(255, 0, 0);
     font-size: 30px;
 }
-p{
+.texto {
     color:rgb(0, 79, 250);
     font-size: 20px;
 }
