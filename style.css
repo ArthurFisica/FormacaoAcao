@@ -1,5 +1,7 @@
 body {
     background: #EBE4D1;
+    display: block;
+    margin: 20px;
 }
 #titulo01 {
     text-align: center;
