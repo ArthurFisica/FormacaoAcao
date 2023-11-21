@@ -1,9 +1,12 @@
-.principal{
+.titulo00 {
+    padding-left: 20px;
+}
+.principal {
     background: #EBE4D1;
     display: block;
     margin: 20px;
 }
-#titulo01 {
+.titulo01 {
     text-align: center;
     color:#E55604;
     font-size: 60px;
@@ -13,7 +16,7 @@
     padding: 20px;
     margin: 20px;
 }
-#titulo02 {
+.titulo02 {
     text-align: center;
     color:#26577C;
     font-size: 30px;
