@@ -4,7 +4,7 @@
 .principal {
     background: #EBE4D1;
     display: block;
-    padding: 30px;
+    padding: 10px;
 }
 .titulo01 {
     text-align: center;
@@ -26,7 +26,8 @@
 }
 .projetos {
     background: #EBE4D1;
-    padding: 30px;
+    display: block;
+    padding: 10px;
 }
 ul {
     display: inline-block;
