@@ -3,10 +3,19 @@ body {
     display: block;
     margin: 20px;
 }
+.principal{
+    background: #EBE4D1;
+    display: block;
+    margin: 20px;
+}
 #titulo01 {
     text-align: center;
     color:#E55604;
     font-size: 60px;
+}
+#SBC {
+    padding: 20px;
+    margin: 20px;
 }
 #titulo02 {
     text-align: center;
@@ -17,11 +26,18 @@ body {
     color:#8a8a7a;
     font-size: 20px;
 }
-.textolink {
+.projetos {
+    background: #EBE4D1;
+    margin: 20px;
+}
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+.itens {
+    font-style: italic;
     color:#8a8a7a;
     font-size: 25px;
-}
-#SBC {
-    padding: 20px;
-    margin: 20px;
 }
