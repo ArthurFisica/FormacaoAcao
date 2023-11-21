@@ -12,14 +12,13 @@
     font-size: 60px;
 }
 #SBC {
-    align-items: center;
     padding: 20px;
     margin: 20px;
 }
 .titulo02 {
     text-align: center;
     color:#26577C;
-    font-size: 30px;
+    font-size: 40px;
 }
 .texto {
     color:#8a8a7a;
@@ -27,7 +26,7 @@
 }
 .projetos {
     background: #EBE4D1;
-    padding: 20px;
+    padding: 30px;
 }
 ul {
     display: inline-block;
